@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Ghidra
+Exec=/opt/ghidra/ghidraRun
+Icon=ghidra
+Type=Application
+Categories=Development;Debugger;Profiling;
